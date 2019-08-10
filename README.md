@@ -27,7 +27,7 @@ There are 1 notebook alongside with the raw data used to run the script. I've al
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@jl4730/this-is-why-nyc-condos-are-always-worth-buying-e1f3d35c6f24).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
